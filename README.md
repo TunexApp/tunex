@@ -21,5 +21,3 @@ Tunex는 Melon, Vibe, FLO, Bugs, Genie 등 다양한 음악 플랫폼의 노래 
 ### 바로가기
 - **PC 웹**: https://tunex.kr/
 - **모바일 웹**: https://m.tunex.kr/
-
-지금 바로 Tunex와 함께 새로운 음악 경험을 시작해보세요!
